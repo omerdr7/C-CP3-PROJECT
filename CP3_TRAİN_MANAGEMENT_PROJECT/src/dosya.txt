@@ -1,0 +1,21 @@
+TRAIN:T123:3
+MATERIALS:3
+M:LargeBox:Steel:200.00:50:13
+M:MediumBox:Aluminium:150.00:50:0
+M:SmallBox:Wood:100.00:50:0
+WAGON:1:1000.00:1000.00
+L:Large Box
+L:Large Box
+L:Large Box
+L:Large Box
+L:Large Box
+WAGON:2:1000.00:1000.00
+L:Large Box
+L:Large Box
+L:Large Box
+L:Large Box
+L:Large Box
+WAGON:3:1000.00:600.00
+L:Large Box
+L:Large Box
+L:Large Box
